@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1424685238 source:/home/max/Scrivania/progettohuff/main.cpp
+	"Colore.h"
+	<iostream>
+	<string>
+	<fstream>
+	"Nodo.h"
+	"ABR.h"
+	"ARB.h"
+	"Queue.h"
+	"Huffman.h"
+	"stdlib.h"
+
+1424169862 /home/max/Scrivania/progettohuff/Colore.h
+	<iostream>
+
+1423396708 source:/home/max/Scrivania/progettohuff/src/ABR.cpp
+	"ABR.h"
+
+1423396858 /home/max/Scrivania/progettohuff/include/ABR.h
+	<cstdlib>
+	<iostream>
+	<string>
+
+1424680417 /home/max/Scrivania/progettohuff/Nodo.h
+	<iostream>
+	"Colore.h"
+
+1424681113 /home/max/Scrivania/progettohuff/ABR.h
+	"Nodo.h"
+
+1424520742 source:/home/max/Scrivania/progettohuff/ABR.cpp
+	<iostream>
+	<vector>
+	"ABR.h"
+
+1423752477 source:/home/max/Scrivania/progettohuff/src/ARB.cpp
+	"ARB.h"
+
+1423752477 /home/max/Scrivania/progettohuff/include/ARB.h
+
+1424433476 /home/max/Scrivania/progettohuff/ARB.h
+	"ABR.h"
+
+1424680642 source:/home/max/Scrivania/progettohuff/ARB.cpp
+	"ARB.h"
+
+1424680357 source:/home/max/Scrivania/progettohuff/Queue.cpp
+	<iostream>
+	<vector>
+	"Queue.h"
+	<map>
+
+1424681113 /home/max/Scrivania/progettohuff/Queue.h
+	<map>
+	"ARB.h"
+
+1424686625 source:/home/max/Scrivania/progettohuff/Huffman.cpp
+	"Huffman.h"
+	<vector>
+	<map>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+
+1424687761 /home/max/Scrivania/progettohuff/Huffman.h
+	<map>
+	<cstring>
+	<vector>
+	<fstream>
+	"Queue.h"
+
+1424726795 source:/home/max/Scrivania/progettohuff (copia 15)/ABR.cpp
+	"ABR.h"
+
+1424726968 /home/max/Scrivania/progettohuff (copia 15)/ABR.h
+	<vector>
+	"Nodo.h"
+
+1424726968 /home/max/Scrivania/progettohuff (copia 15)/Nodo.h
+	"Colore.h"
+
+1424730200 /home/max/Scrivania/progettohuff (copia 15)/Colore.h
+	<iostream>
+
+1424680642 source:/home/max/Scrivania/progettohuff (copia 15)/ARB.cpp
+	"ARB.h"
+
+1424730776 /home/max/Scrivania/progettohuff (copia 15)/ARB.h
+	"ABR.h"
+
+1424732649 source:/home/max/Scrivania/progettohuff (copia 15)/Huffman.cpp
+	"Huffman.h"
+
+1424730188 /home/max/Scrivania/progettohuff (copia 15)/Huffman.h
+	<vector>
+	<stdlib.h>
+	<fstream>
+	"Queue.h"
+
+1424729173 /home/max/Scrivania/progettohuff (copia 15)/Queue.h
+	<map>
+	"ARB.h"
+
+1424726475 source:/home/max/Scrivania/progettohuff (copia 15)/main.cpp
+	"Huffman.h"
+
+1424726618 source:/home/max/Scrivania/progettohuff (copia 15)/Queue.cpp
+	"Queue.h"
+
+1424726795 source:/home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/ABR.cpp
+	"ABR.h"
+
+1424726968 /home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/ABR.h
+	<vector>
+	"Nodo.h"
+
+1424726968 /home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Nodo.h
+	"Colore.h"
+
+1424730200 /home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Colore.h
+	<iostream>
+
+1424680642 source:/home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/ARB.cpp
+	"ARB.h"
+
+1424730776 /home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/ARB.h
+	"ABR.h"
+
+1424732649 source:/home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Huffman.cpp
+	"Huffman.h"
+
+1424730188 /home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Huffman.h
+	<vector>
+	<stdlib.h>
+	<fstream>
+	"Queue.h"
+
+1424729173 /home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Queue.h
+	<map>
+	"ARB.h"
+
+1424733016 source:/home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/main.cpp
+	"Huffman.h"
+
+1424726618 source:/home/max/Scrivania/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Queue.cpp
+	"Queue.h"
+
+1435662260 source:/home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/ABR.cpp
+	"ABR.h"
+
+1435679553 /home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/ABR.h
+	<vector>
+	"Nodo.h"
+
+1424726968 /home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Nodo.h
+	"Colore.h"
+
+1424730200 /home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Colore.h
+	<iostream>
+
+1435675844 source:/home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/ARB.cpp
+	"ARB.h"
+
+1435675828 /home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/ARB.h
+	"ABR.h"
+
+1435679577 source:/home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/main.cpp
+	"Huffman.h"
+	"string.h"
+
+1435663182 /home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Huffman.h
+	<vector>
+	<stdlib.h>
+	<fstream>
+	"QueuePriority.h"
+
+1435151491 /home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/QueuePriority.h
+	<map>
+	"ARB.h"
+
+1435679553 source:/home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/Huffman.cpp
+	"Huffman.h"
+
+1435675873 source:/home/max/Scaricati/progetto ASD - Vigliotti Clemente 0124000822/progetto algoritmi e strutture dati - codifica di Huffman/QueuePriority.cpp
+	"QueuePriority.h"
+
